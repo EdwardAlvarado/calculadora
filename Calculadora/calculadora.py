@@ -26,6 +26,12 @@ class Calculadora:
 
         return str(self.resultado)
 
+    def capturar(self, valor):
+
+        self.valor = valor
+
+    
+
     
 
     
